@@ -80,3 +80,16 @@ body {
   display: flex;
   justify-content: flex-end;
 }
+
+/* main content styling (css is painful --> (skill issue)) */ 
+
+.main {
+  padding: 60px 0;  
+}
+
+.project-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+
